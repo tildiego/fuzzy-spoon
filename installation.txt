@@ -1,0 +1,18 @@
+Installation guide
+------------------
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
+in culpa qui officia deserunt mollit anim id est laborum.
+
+Donec ultrices tincidunt arcu non sodales neque sodales ut etiam. Varius quam
+quisque id diam vel. Semper quis lectus nulla at volutpat diam ut venenatis.
+Lorem donec massa sapien faucibus et molestie ac feugiat. Platea dictumst
+quisque sagittis purus sit amet volutpat consequat mauris. In aliquam sem
+fringilla ut morbi tincidunt augue. In aliquam sem fringilla ut morbi
+tincidunt augue. Sollicitudin nibh sit amet commodo. Consectetur adipiscing
+elit duis tristique. Etiam dignissim diam quis enim lobortis. Nisl vel pretium
+lectus quam id.
